@@ -4,6 +4,7 @@
   "description": "Backend Node.js  pour gérer les tâches d’une équipe avec rôles **admin** et **member**.",
   "main": "server .js",
   "start" : "nodemon server.js",
+   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
