@@ -6,7 +6,7 @@ Backend Node.js pour gérer les tâches d’une équipe avec rôles admin et  me
 - Node.js 18+, Express
 - MongoDB Atlas (Mongoose)
 - Auth **JWT**, mots de passe **bcrypt**
-- Middleware: helmet, cors, morgan
+- Middleware: helmet, cors
 - Déploiement **Render**
 - Structure **MVC** (models, controllers, routes, middlewares)
 
@@ -137,9 +137,9 @@ task-manager-backend/
 
 ## ✅ Données de test (seed)
 - Admin: `admin@example.com` / `Admin@123`
-- Membres: `alice@example.com`, `bob@example.com` (mdp: `Password1!`)
+- Membres: `diallo@example.com`, `diallo@example.com` (mdp: `Password1!`)
 - Tâches d’exemple: voir `seed/seed.js`
 
 ---
 
-**Bon code !** Si tu veux, je peux ajouter un petit front (EJS/React) plus tard.
+#MERCI A TOUS 
