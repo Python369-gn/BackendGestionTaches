@@ -1,8 +1,8 @@
 # Team Task Manager (Express + MongoDB Atlas + Render)
 --
 ## ELHADJ OUMAR FAWZANE DIALLO 
-  ---
- ## Backend Node.js pour gérer les tâches d’une équipe avec rôles admin et  member .
+--
+## Backend Node.js pour gérer les tâches d’une équipe avec rôles admin et  member .
 
 ## ⚙️ Stack
 - Node.js 18+, Express
